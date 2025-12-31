@@ -1,4 +1,4 @@
-# Next.js project — README
+# Next.js project
 
 This repository contains a Next.js project scaffolded with TypeScript. The README below documents how the project was created, how to run it locally, and a note about enabling Turbopack filesystem caching for development.
 
